@@ -54,15 +54,15 @@ This data set is licensed under the [![License: CC BY 4.0](https://img.shields.i
 
 ## References
 
-<a name="Schelbergen">[1]</a> Mark Schelbergen and Roland Schmehl (2023). Swinging Motion of a Kite with Suspended Control Unit Flying Turning Manoeuvres. Wind Energy Science Discussions, 2023, 1-32. [10.5194/wes-2023-121](https://doi.org/10.5194/wes-2023-121)
+<a name="Schelbergen">[1]</a> Mark Schelbergen and Roland Schmehl (2023). Swinging Motion of a Kite with Suspended Control Unit Flying Turning Manoeuvres. Wind Energy Science Discussions, 2023, 1-32. [https://doi.org/10.5194/wes-2023-121](https://doi.org/10.5194/wes-2023-121)
 
-<a name="Flightdata08102019">[2]</a> Mark Schelbergen, Roland Schmehl, Bert Buchholz, Joep Breuer and Johannes Peschel (2024). Kite power flight data acquired on 8 October 2019. Version 1. 4TU.ResearchData. dataset. [10.4121/19376174.v1](https://doi.org/10.4121/19376174.v1)
+<a name="Flightdata08102019">[2]</a> Mark Schelbergen, Roland Schmehl, Bert Buchholz, Joep Breuer and Johannes Peschel (2024). Kite power flight data acquired on 8 October 2019. Version 1. 4TU.ResearchData. dataset. [https://doi.org/10.4121/19376174.v1](https://doi.org/10.4121/19376174.v1)
 
-<a name="Williams">[3]</a> Paul Williams (2017). Cable Modeling Approximations for Rapid Simulation. Journal of Guidance Control and Dynamics, 40:7, 1779-1788. [10.2514/1.G002354](https://doi.org/10.2514/1.G002354)
+<a name="Williams">[3]</a> Paul Williams (2017). Cable Modeling Approximations for Rapid Simulation. Journal of Guidance Control and Dynamics, 40:7, 1779-1788. [https://doi.org/10.2514/1.G002354](https://doi.org/10.2514/1.G002354)
 
-<a name="Zanon">[4]</a> Mario Zanon, Sébastien Gros, Joel Andersson and Moritz Diehl (2013). Airborne Wind Energy Based on Dual Airfoils. IEEE Transactions on Control Systems Technology, 21:4, 1215-1222. [10.1109/TCST.2013.2257781](https://doi.org/10.1109/TCST.2013.2257781)
+<a name="Zanon">[4]</a> Mario Zanon, Sébastien Gros, Joel Andersson and Moritz Diehl (2013). Airborne Wind Energy Based on Dual Airfoils. IEEE Transactions on Control Systems Technology, 21:4, 1215-1222. [https://doi.org/10.1109/TCST.2013.2257781](https://doi.org/10.1109/TCST.2013.2257781)
 
-<a name="Andersson">[5]</a> Joel Andersson, Joris Gillis, Greg Horn, James Rawlings and Moritz Diehl (2019). CasADi: a software framework for nonlinear optimization and optimal control. Mathematical Programming Computation, 11, 1-36. [10.1007/s12532-018-0139-4](https://doi.org/10.1007/s12532-018-0139-4)
+<a name="Andersson">[5]</a> Joel Andersson, Joris Gillis, Greg Horn, James Rawlings and Moritz Diehl (2019). CasADi: a software framework for nonlinear optimization and optimal control. Mathematical Programming Computation, 11, 1-36. [https://doi.org/10.1007/s12532-018-0139-4](https://doi.org/10.1007/s12532-018-0139-4)
 
 
 ## Acknowledgements
